@@ -1,5 +1,5 @@
 <?php 
-define('API_URL', 'https://virtuagym.com/api/'); 
+define('API_URL', 'https://virtuagym.com/api/v1'); 
 define('API_KEY', ''); 
 define('CLUB_ID', ''); 
 define('CLUB_SECRET', ''); 
