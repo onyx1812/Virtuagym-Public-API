@@ -3,7 +3,7 @@ Here you can find some code examples and our [API documentation](https://github.
 
 ## API Key
 A valid API key is required for all API requests. 
-If you are a Virtuagym Professional client you can request an API key in your Business-settings (General -> Advanced -> Request API key). If you're not a Virtuagym Professional client you can request an API key [on this page](https://virtuagym.com/public-api).
+If you are a Virtuagym Professional client you can request an API key in your Business-settings (General -> Advanced -> Request API key). If you're not a Virtuagym Professional client you can request an API key [on this page](https://api.virtuagym.com/public-api).
 
 ## Limitations
 Requests are limited to 500 requests per hour.
